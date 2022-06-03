@@ -31,7 +31,7 @@ def map_dependencies
     basename = File.basename path
     file = File.read path
 
-    matchdata = file.match(/define\(\s*\[\s*([\"\.\/\,\w\s-\:]+)\]/m)
+    matchdata = file.match(/define\(\s*\[\s*([-\"\.\/\,\w\s\:]+)\]/m)
 
     next if matchdata.nil?
 
