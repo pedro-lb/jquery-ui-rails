@@ -1,4 +1,3 @@
-//= require jquery-ui/escape-selector
 //= require jquery-ui/form-reset-mixin
 //= require jquery-ui/labels
 //= require jquery-ui/widget

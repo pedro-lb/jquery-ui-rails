@@ -1,5 +1,6 @@
-//= require jquery-ui/version
 //= require jquery-ui/jquery-var-for-color
+//= require jquery-ui/vendor/jquery-color/jquery.color
+//= require jquery-ui/version
 
 /*!
  * jQuery UI Effects 1.13.1
@@ -27,6 +28,7 @@
 		define( [
 			"jquery",
 			"./jquery-var-for-color",
+			"./vendor/jquery-color/jquery.color",
 			"./version"
 		], factory );
 	} else {

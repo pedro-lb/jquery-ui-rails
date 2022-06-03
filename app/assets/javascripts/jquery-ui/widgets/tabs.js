@@ -1,4 +1,3 @@
-//= require jquery-ui/escape-selector
 //= require jquery-ui/keycode
 //= require jquery-ui/safe-active-element
 //= require jquery-ui/unique-id

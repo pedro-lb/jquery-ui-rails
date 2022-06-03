@@ -1,5 +1,4 @@
 //= require jquery-ui/version
-//= require jquery-ui/escape-selector
 
 /*!
  * jQuery UI Labels 1.13.1
