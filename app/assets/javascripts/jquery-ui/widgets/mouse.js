@@ -3,7 +3,7 @@
 //= require jquery-ui/widget
 
 /*!
- * jQuery UI Mouse 1.13.1
+ * jQuery UI Mouse test foobar 123 qux bazz 42 1.13.1
  * http://jqueryui.com
  *
  * Copyright jQuery Foundation and other contributors
