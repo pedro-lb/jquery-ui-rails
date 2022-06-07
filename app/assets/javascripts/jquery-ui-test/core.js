@@ -1,0 +1,15 @@
+//= require jquery-ui-test/data
+//= require jquery-ui-test/disable-selection
+//= require jquery-ui-test/focusable
+//= require jquery-ui-test/form
+//= require jquery-ui-test/ie
+//= require jquery-ui-test/keycode
+//= require jquery-ui-test/labels
+//= require jquery-ui-test/jquery-patch
+//= require jquery-ui-test/plugin
+//= require jquery-ui-test/safe-active-element
+//= require jquery-ui-test/safe-blur
+//= require jquery-ui-test/scroll-parent
+//= require jquery-ui-test/tabbable
+//= require jquery-ui-test/unique-id
+//= require jquery-ui-test/version

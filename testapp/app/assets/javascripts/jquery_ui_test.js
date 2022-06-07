@@ -1,4 +1,4 @@
-//= require jquery-ui/widgets/datepicker
+//= require jquery-ui-test/widgets/datepicker
 
 $(function() {
   $('.datepicker').datepicker();

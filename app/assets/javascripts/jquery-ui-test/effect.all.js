@@ -1,0 +1,15 @@
+//= require jquery-ui-test/effects/effect-blind
+//= require jquery-ui-test/effects/effect-bounce
+//= require jquery-ui-test/effects/effect-clip
+//= require jquery-ui-test/effects/effect-drop
+//= require jquery-ui-test/effects/effect-explode
+//= require jquery-ui-test/effects/effect-fade
+//= require jquery-ui-test/effects/effect-fold
+//= require jquery-ui-test/effects/effect-highlight
+//= require jquery-ui-test/effects/effect-puff
+//= require jquery-ui-test/effects/effect-pulsate
+//= require jquery-ui-test/effects/effect-scale
+//= require jquery-ui-test/effects/effect-shake
+//= require jquery-ui-test/effects/effect-size
+//= require jquery-ui-test/effects/effect-slide
+//= require jquery-ui-test/effects/effect-transfer
