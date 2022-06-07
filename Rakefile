@@ -256,6 +256,6 @@ end
 desc "Clean and then generate everything (default)"
 task :assets => [:clean, :javascripts, :stylesheets, :images, :version]
 
-task :build => :assets
+# task :build => :assets
 
 task :default => :assets
