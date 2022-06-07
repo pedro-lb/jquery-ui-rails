@@ -256,6 +256,10 @@ end
 desc "Clean and then generate everything (default)"
 task :assets => [:clean, :javascripts, :stylesheets, :images, :version]
 
-task :build => :assets
+# The build is disabled since we've changed the gem name.
+# Files were manually updated to be in the correct folder,
+# Just so that we could release the version.
+# See more: https://github.com/Constructor-io/jquery-ui-rails/pull/1
+# task :build => :assets
 
 task :default => :assets
