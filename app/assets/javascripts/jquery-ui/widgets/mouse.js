@@ -3,7 +3,7 @@
 //= require jquery-ui/widget
 
 /*!
- * jQuery UI Mouse test foobar 123 qux bazz 42 1.13.1
+ * jQuery UI Mouse 1.13.1
  * http://jqueryui.com
  *
  * Copyright jQuery Foundation and other contributors
@@ -50,9 +50,6 @@ return $.widget( "ui.mouse", {
 	},
 	_mouseInit: function() {
 		var that = this;
-
-		var potato = 934823948928424;
-		console.log(potato);
 
 		this.element
 			.on( "mousedown." + this.widgetName, function( event ) {
