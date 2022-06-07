@@ -7,8 +7,8 @@ Gem::Specification.new do |s|
   s.authors     = ["Pedro Bini"]
   s.email       = ["dev.pedrobini@gmail.com"]
   s.homepage    = "https://github.com/pedro-lb/jquery-ui-rails"
-  s.summary     = "jQuery UI packaged for the Rails asset pipeline"
-  s.description = "jQuery UI's JavaScript, CSS, and image files packaged for the Rails 3.1+ asset pipeline"
+  s.summary     = "This is deprecated! do not install. See discussion: https://github.com/Constructor-io/jquery-ui-rails/pull/1"
+  s.description = "This is deprecated! do not install. See discussion: https://github.com/Constructor-io/jquery-ui-rails/pull/1"
   s.license     = "MIT"
 
   s.required_rubygems_version = ">= 1.3.6"
