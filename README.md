@@ -111,7 +111,7 @@ other JavaScript modules as needed.
 //= jquery-ui-patch-1131/widgets/sortable
 ```
 
-For all but `jquery-ui/mouse` and `jquery-ui/droppable`, remember to `require` their matching CSS
+For all but `jquery-ui-patch-1131/mouse` and `jquery-ui-patch-1131/droppable`, remember to `require` their matching CSS
 files in your application.css as well.
 
 ### Widgets
@@ -137,7 +137,7 @@ application.css as well.
 #### I18n
 
 Datepicker has optional i18n modules for non-US locales, named
-`jquery-ui/datepicker-xx[-YY]`
+`jquery-ui-patch-1131/datepicker-xx[-YY]`
 ([list](https://github.com/jquery-ui-rails/jquery-ui-rails/tree/master/app/assets/javascripts)),
 for example:
 
