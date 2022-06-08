@@ -6,9 +6,6 @@ This fork has updated the `jquery-ui` version to `1.13.1`.
 
 # jquery-ui-rails
 
-[![Build Status](https://travis-ci.org/jquery-ui-rails/jquery-ui-rails.svg?branch=master)](https://travis-ci.org/jquery-ui-rails/jquery-ui-rails)
-[![Dependency Status](https://gemnasium.com/jquery-ui-rails/jquery-ui-rails.svg)](https://gemnasium.com/jquery-ui-rails/jquery-ui-rails)
-
 This gem packages the jQuery UI assets (JavaScripts, stylesheets, and
 images) for the Rails [asset
 pipeline](http://guides.rubyonrails.org/asset_pipeline.html), so you never have
